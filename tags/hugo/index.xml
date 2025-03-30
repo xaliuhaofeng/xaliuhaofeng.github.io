@@ -2,28 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hugo on marsoft blog</title>
-        <link>http://localhost:11000/tags/hugo/</link>
+        <link>https://example.com/tags/hugo/</link>
         <description>Recent content in Hugo on marsoft blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>marsoft</copyright>
-        <lastBuildDate>Sun, 30 Mar 2025 21:29:43 +0800</lastBuildDate><atom:link href="http://localhost:11000/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 30 Mar 2025 14:46:55 +0000</lastBuildDate><atom:link href="https://example.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>First</title>
-        <link>http://localhost:11000/post/my-firtst/</link>
+        <link>https://example.com/post/my-firtst/</link>
         <pubDate>Tue, 15 Oct 2024 09:08:41 +0800</pubDate>
         
-        <guid>http://localhost:11000/post/my-firtst/</guid>
-        <description>&lt;p&gt;This is my first post.&lt;/p&gt;
-</description>
+        <guid>https://example.com/post/my-firtst/</guid>
+        <description>&lt;h2 id=&#34;thios-is-the-first-post-content&#34;&gt;Thios is the first post content.
+&lt;/h2&gt;&lt;h3 id=&#34;this-is-the-first-level-heading&#34;&gt;This is the first level heading.
+&lt;/h3&gt;</description>
         </item>
         <item>
         <title>Second</title>
-        <link>http://localhost:11000/post/my-second/</link>
+        <link>https://example.com/post/my-second/</link>
         <pubDate>Tue, 15 Oct 2024 09:08:41 +0800</pubDate>
         
-        <guid>http://localhost:11000/post/my-second/</guid>
-        <description>&lt;p&gt;#This is the second post title.&lt;/p&gt;
-</description>
+        <guid>https://example.com/post/my-second/</guid>
+        <description>&lt;h1 id=&#34;this-is-the-second-post-title&#34;&gt;This is the second post title.
+&lt;/h1&gt;&lt;h2 id=&#34;thios-is-the-second-post-content&#34;&gt;Thios is the second post content.
+&lt;/h2&gt;&lt;h3 id=&#34;this-is-the-third-level-heading&#34;&gt;This is the third level heading.
+&lt;/h3&gt;</description>
         </item>
         
     </channel>
