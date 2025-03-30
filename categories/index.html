@@ -10,7 +10,7 @@
 <meta property='og:description' content="网站描述">
 <meta property='og:url' content='http://localhost:11000/categories/'>
 <meta property='og:site_name' content='marsoft blog'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-03-28T23:29:55&#43;08:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-03-29T22:32:16&#43;08:00 '/>
 <meta name="twitter:title" content="Categories">
 <meta name="twitter:description" content="网站描述"><link rel="alternate" type="application/rss&#43;xml" href="http://localhost:11000/categories/index.xml">
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -113,7 +113,7 @@
         
         
         <li >
-            <a href='/page/%E5%85%B3%E4%BA%8E/' >
+            <a href='/page/about/' >
                 
                 
                 
@@ -126,7 +126,27 @@
 
 
                 
-                <span>About</span>
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-rss" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="5" cy="19" r="1" />
+  <path d="M4 4a16 16 0 0 1 16 16" />
+  <path d="M4 11a9 9 0 0 1 9 9" />
+</svg>
+
+
+
+                
+                <span>Feed</span>
             </a>
         </li>
         
@@ -146,7 +166,7 @@
 
 
                 
-                <span>Archives</span>
+                <span>目录</span>
             </a>
         </li>
         
@@ -165,7 +185,7 @@
 
 
                 
-                <span>Search</span>
+                <span>查找</span>
             </a>
         </li>
         
@@ -452,27 +472,22 @@
     </a>
 </article>
         
-            <article>
-    <a href="/categories/test/">
-        <div class="article-details">
-            <h2 class="article-title">Test</h2>
-            <footer class="article-time">
-                <time datetime='0001-01-01T00:00:00Z'>Jan 01, 0001</time>
-            </footer>
-        </div>
-            <div class="article-image">
-                <img src="/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash_hu13714511474273067689.jpg" 
-                        width="120"
-                        height="120" 
-                        alt="Test"
-                        loading="lazy">
-                
-            </div>
-        
-    </a>
-</article>
-        
     </section>
+    <nav class='pagination'>
+        
+        
+
+        
+            
+                <span class='page-link current'>1</span>
+                
+            
+            
+                    <a class='page-link' href='/categories/page/2/'>2</a>
+                
+            
+    </nav>
+
 <footer class="site-footer">
     <section class="copyright">
         &copy; 
@@ -551,8 +566,10 @@
         
         
         
+        
+        
 
-        <p>发布了 11 篇文章 | 共 2128 字</p>
+        <p>发布了 12 篇文章 | 共 2128 字</p>
 
 
         
@@ -584,6 +601,25 @@
 
         document.head.appendChild(customFont);
     }());
+</script>
+
+<script
+    src="https://cdn.jsdelivr.net/gh/zhixuan2333/gh-blog@v0.1.0/js/nprogress.min.js"
+    integrity="sha384-bHDlAEUFxsRI7JfULv3DTpL2IXbbgn4JHQJibgo5iiXSK6Iu8muwqHANhun74Cqg"
+    crossorigin="anonymous"
+></script>
+<link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/zhixuan2333/gh-blog@v0.1.0/css/nprogress.css"
+    integrity="sha384-KJyhr2syt5+4M9Pz5dipCvTrtvOmLk/olWVdfhAp858UCa64Ia5GFpTN7+G4BWpE"
+    crossorigin="anonymous"
+/>
+<script>
+    NProgress.start();
+    document.addEventListener("readystatechange", () => {
+        if (document.readyState === "interactive") NProgress.inc(0.8);
+        if (document.readyState === "complete") NProgress.done();
+    });
 </script>
 
     </body>
