@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>测试 on marsoft blog</title>
+        <link>https://example.com/tags/%E6%B5%8B%E8%AF%95/</link>
+        <description>Recent content in 测试 on marsoft blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>marsoft</copyright>
+        <lastBuildDate>Thu, 10 Apr 2025 15:11:24 +0000</lastBuildDate><atom:link href="https://example.com/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>branch marsoft</title>
+        <link>https://example.com/post/test-branch/</link>
+        <pubDate>Thu, 10 Apr 2025 09:08:41 +0800</pubDate>
+        
+        <guid>https://example.com/post/test-branch/</guid>
+        <description>&lt;h1 id=&#34;this-is-the-brach-post-title&#34;&gt;This is the brach post title.
+&lt;/h1&gt;&lt;h2 id=&#34;this-is-not--main-post-content&#34;&gt;This is not  main post content.
+&lt;/h2&gt;&lt;h3 id=&#34;this-is-marsoft-level-heading&#34;&gt;This is marsoft level heading.
+&lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>Fourth</title>
+        <link>https://example.com/post/my-four/</link>
+        <pubDate>Sat, 15 Mar 2025 09:08:41 +0800</pubDate>
+        
+        <guid>https://example.com/post/my-four/</guid>
+        <description>&lt;h1 id=&#34;this-is-the-second-post-title&#34;&gt;This is the second post title.
+&lt;/h1&gt;&lt;h2 id=&#34;thios-is-the-second-post-content&#34;&gt;Thios is the second post content.
+&lt;/h2&gt;&lt;h3 id=&#34;this-is-the-third-level-heading&#34;&gt;This is the third level heading.
+&lt;/h3&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
