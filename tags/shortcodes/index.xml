@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Shortcodes on marsoft blog</title>
+        <title>Shortcodes on marsoft&#39;s blog</title>
         <link>https://example.com/tags/shortcodes/</link>
-        <description>Recent content in Shortcodes on marsoft blog</description>
+        <description>Recent content in Shortcodes on marsoft&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>marsoft</copyright>
-        <lastBuildDate>Sat, 12 Apr 2025 15:36:55 +0000</lastBuildDate><atom:link href="https://example.com/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 12 Apr 2025 15:40:39 +0000</lastBuildDate><atom:link href="https://example.com/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Rich Content</title>
         <link>https://example.com/post/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0800</pubDate>
